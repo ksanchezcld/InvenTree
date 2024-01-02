@@ -2,3 +2,4 @@
 django-extensions==1.7.8
 graphviz==0.6
 ipython==5.3.0
+prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
